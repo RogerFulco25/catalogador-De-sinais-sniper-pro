@@ -1,2 +1,2 @@
-# catalogador-De-sinais-sniper-pro
+# catalogador-de-sinais-sniper-pro
 Catalogador De Sinais Reais Oficial 
